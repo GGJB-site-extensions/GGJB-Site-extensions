@@ -7,6 +7,6 @@ These Extforge mods are made for fun and to make projects easy to make.
 # URLs/Links
  // https://ggjbsextensions.github.io/GGJB-Site-extensions/ // GGJB Site extensions on Github pages
 
--WIP- SLIGHTLY FINISHED REPOSITORY
+~WIP~ SLIGHTLY FINISHED REPOSITORY
 ![extforge](https://github.com/user-attachments/assets/02d25254-b9b7-4674-899a-c32e7651587c)
 
