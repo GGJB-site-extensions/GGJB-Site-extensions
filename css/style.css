@@ -13,6 +13,7 @@ button {
   border-color: gray;
   font-size: 14px;
   border-radius: 12px;
+  margin: 0 4px;
 }
 .footer {
   background-color: #dedede;
